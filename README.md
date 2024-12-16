@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeeshan khan</h1>
 <h3 align="center">A passionate frontend and backend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-khan-123&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-khan-123" /> </p>
+<p align="left"> <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="zeeshan-khan-123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshan-khan-123" alt="zeeshan-khan-123" /></a> </p>
 
